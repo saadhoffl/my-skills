@@ -1,5 +1,8 @@
 ## MY SKILLS (PROJECTS I HAVE DONE):
 
+-- html
+-- css
+
 ## UI-ENGINEER:
 
 | Project No | Project Name | Project Status | Descriptions | Skills | Link |
