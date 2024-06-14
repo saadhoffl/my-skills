@@ -1,7 +1,27 @@
 ## MY SKILLS (PROJECTS I HAVE DONE):
 
-- html
-- css
+- Html
+- Css
+- Sass
+
+- Bootstrap
+- React-Js
+- Next-Js
+
+- Javascript
+- Jquery
+
+- Php
+- Python
+
+- Mysql
+- MongoDB
+
+- Linux
+- Devops
+
+- Git
+- Composer
 
 ## UI-ENGINEER:
 
