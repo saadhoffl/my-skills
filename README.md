@@ -1,7 +1,7 @@
 ## MY SKILLS (PROJECTS I HAVE DONE):
 
--- html
--- css
+- html
+- css
 
 ## UI-ENGINEER:
 
